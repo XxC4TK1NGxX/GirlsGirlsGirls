@@ -1,0 +1,124 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 908px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin: 42px auto 42px 0;
+}
+
+.u-section-1 .u-image-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url('/images/Kate-Sharma-Sexy-Video.jpg');
+  min-height: 451px;
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.u-section-1 .u-image-2 {
+  background-image: url("/images/71nuCKYUrEL._AC_UY1100_.jpg");
+  min-height: 421px;
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-image-3 {
+  background-image: url("/images/4572e65d692a70206d9058f1afaae523.jpeg");
+  min-height: 295px;
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-image-4 {
+  background-image: url("/images/109264268-0.jpeg");
+  min-height: 282px;
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-image-5 {
+  background-image: url("/images/1000_F_32513786_tMFyZu7U4f94Ndth9WMEW1RWtfmXAQut.jpg");
+  min-height: 295px;
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-image-6 {
+  background-image: url("/images/183704290_max.jpg");
+  min-height: 437px;
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-image-7 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url('/images/Snapinsta.app_344351752_648868277074717_8297029489279457218_n_1080.jpg');
+  min-height: 435px;
+  background-position: 50% 50%;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 13px;
+    padding-right: 13px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 9px;
+    padding-right: 9px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 6px;
+    padding-right: 6px;
+  }
+} .u-section-2 {
+  background-image: none;
+  min-height: 250px;
+}
+
+.u-section-2 .u-image-1 {
+  height: 250px;
+  left: 0;
+  top: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+@media (max-width: 1199px) {
+   .u-section-2 {
+    min-height: 381px;
+  }
+
+  .u-section-2 .u-image-1 {
+    position: absolute;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-2 {
+    min-height: 251px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-2 {
+    min-height: 351px;
+  }
+}
